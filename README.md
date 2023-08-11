@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yohask
-- 👀 I’m interested in data analysis and library systems
-- 🌱 I’m currently learning Excel, SQL, and Tableau
+- 👀 I’m interested in dabbling in any code related things
+- 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on anything!
 
 <!---
